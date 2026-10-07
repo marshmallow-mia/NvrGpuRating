@@ -1,0 +1,8 @@
+LIBRARY NvrGpuRating
+EXPORTS
+    NvrPluginGetInfo
+    NvrPluginGetApiVersion
+    NvrPluginGetCapabilities
+    NvrPluginInitEx
+    NvrPluginInit
+    NvrPluginShutdown
